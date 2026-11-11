@@ -40,27 +40,60 @@ I build software where **health, data and machine learning** meet: accessible Fl
 
 <div align="center">
 
-<table align="center">
-<tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=flutter" width="52" alt="Flutter"/><br/><sub><b>Flutter</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=dart" width="52" alt="Dart"/><br/><sub><b>Dart</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" width="52" alt="Python"/><br/><sub><b>Python</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="52" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="52" alt="React"/><br/><sub><b>React</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="52" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="52" alt="Express"/><br/><sub><b>Express</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=firebase" width="52" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
-</tr>
-<tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" width="52" alt="TensorFlow"/><br/><sub><b>TensorFlow</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" width="52" alt="PyTorch"/><br/><sub><b>PyTorch</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="52" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="52" alt="Git"/><br/><sub><b>Git</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="52" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=jupyter" width="52" alt="Jupyter"/><br/><sub><b>Jupyter</b></sub></td>
-</tr>
-</table>
+<b>Languages</b>
+
+<table align="center"><tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/><br/><sub><b>Java</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="48" alt="C"/><br/><sub><b>C</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/><br/><sub><b>C++</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="48" alt="Dart"/><br/><sub><b>Dart</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP"/><br/><sub><b>PHP</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
+</tr></table>
+
+<b>Backend & DevOps</b>
+
+<table align="center"><tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot"/><br/><sub><b>Spring Boot</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=gradle" width="48" alt="Gradle"/><br/><sub><b>Gradle</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" width="48" alt="Express"/><br/><sub><b>Express</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes"/><br/><sub><b>Kubernetes</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=jenkins" width="48" alt="Jenkins"/><br/><sub><b>Jenkins</b></sub></td>
+</tr></table>
+
+<b>Frontend, Viz & Design</b>
+
+<table align="center"><tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="Bootstrap"/><br/><sub><b>Bootstrap</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=jquery" width="48" alt="jQuery"/><br/><sub><b>jQuery</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=d3" width="48" alt="D3.js"/><br/><sub><b>D3.js</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter"/><br/><sub><b>Flutter</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=unity" width="48" alt="Unity"/><br/><sub><b>Unity</b></sub></td>
+</tr></table>
+
+<b>AI & Tools</b>
+
+<table align="center"><tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow"/><br/><sub><b>TensorFlow</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch"/><br/><sub><b>PyTorch</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=gitlab" width="48" alt="GitLab"/><br/><sub><b>GitLab</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=latex" width="48" alt="LaTeX"/><br/><sub><b>LaTeX</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
+</tr></table>
+
+<sub>Also: Swagger · Flyway · JPA · Spring Security · REST microservices · Highcharts · Plotly · Twine · GPT / Gemini / Llama / Mistral APIs · RAG · WCAG 2.1 AA · Agile / Scrum</sub>
 
 </div>
 
@@ -99,7 +132,7 @@ gorintlapavanprasad@github
 --------------------------
 Role ....... Full-stack & Flutter developer
 Focus ...... Health tech, ML, data viz
-Stack ...... Dart, Python, JS, Next.js, Django
+Stack ...... Java, Python, JS, Dart, Spring Boot, Flutter
 $ whoami
 > builds things that help people
 ```
