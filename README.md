@@ -120,14 +120,13 @@ I build software where **health, data and machine learning** meet: accessible Fl
 <details>
 <summary><b>⌨️ Terminal view</b></summary>
 
-```text
-██████╗  █████╗ ██╗   ██╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗██║   ██║██╔══██╗████╗  ██║
-██████╔╝███████║██║   ██║███████║██╔██╗ ██║
-██╔═══╝ ██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║
-██║     ██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║
-╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝
+<div align="center">
 
+<img src="ascii-portrait.png" width="560" alt="ASCII portrait"/>
+
+</div>
+
+```text
 gorintlapavanprasad@github
 --------------------------
 Role ....... Full-stack & Flutter developer
