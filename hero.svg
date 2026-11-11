@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b0f1a"/>
-      <stop offset="0.55" stop-color="#14213d"/>
-      <stop offset="1" stop-color="#0c4a6e"/>
+      <stop offset="0" stop-color="#06101c"/>
+      <stop offset="0.55" stop-color="#0b2a4a"/>
+      <stop offset="1" stop-color="#064e3b"/>
     </linearGradient>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#a5f3fc"/>
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#6ee7b7"/>
     </linearGradient>
     <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#bae6fd"/>
+      <stop offset="1" stop-color="#d1fae5"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.8" cy="0.2" r="0.6">
-      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
     </radialGradient>
     <filter id="blur"><feGaussianBlur stdDeviation="4"/></filter>
     <style>
@@ -26,20 +26,20 @@
       .d2 { animation-delay: -2s; } .d3 { animation-delay: -4s; }
       @keyframes float { 0%,100% { transform: translateY(0); opacity: .25; } 50% { transform: translateY(-14px); opacity: .7; } }
       .name { font: 800 54px 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: 1px; }
-      .sub { font: 400 19px 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: 4px; fill: #cbd5e1; }
+      .sub { font: 400 19px 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: 4px; fill: #e2e8f0; }
       .fade { animation: fade 1.6s ease-out both; }
       @keyframes fade { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
     </style>
   </defs>
   <rect width="1000" height="300" rx="18" fill="url(#bg)"/>
   <rect width="1000" height="300" rx="18" fill="url(#glow)"/>
-  <g fill="#38bdf8">
+  <g fill="#3b82f6">
     <circle class="dot" cx="90" cy="70" r="4"/><circle class="dot d2" cx="210" cy="230" r="3"/>
     <circle class="dot d3" cx="860" cy="60" r="5"/><circle class="dot" cx="930" cy="210" r="3"/>
     <circle class="dot d2" cx="520" cy="40" r="3"/><circle class="dot d3" cx="420" cy="255" r="4"/>
   </g>
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path class="ecg" filter="url(#blur)" stroke="#38bdf8" stroke-width="6" opacity=".5"
+    <path class="ecg" filter="url(#blur)" stroke="#3b82f6" stroke-width="6" opacity=".5"
       d="M0 238 H180 L205 238 L225 190 L250 270 L275 150 L300 238 H470 L490 238 L505 215 L520 238 H760 L780 238 L800 200 L822 262 L845 238 H1000"/>
     <path class="ecg" stroke="url(#line)" stroke-width="3"
       d="M0 238 H180 L205 238 L225 190 L250 270 L275 150 L300 238 H470 L490 238 L505 215 L520 238 H760 L780 238 L800 200 L822 262 L845 238 H1000"/>
