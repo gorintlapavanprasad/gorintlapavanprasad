@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### Hi, I'm Pavan 👋
+<h1 align="center"><font size="7">Hi, I'm Pavan 👋</font></h1>
 I build software where **health, data and machine learning** meet: accessible Flutter games for cardiovascular research, explainable NLP, and interactive visualizations.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gorintlapavanprasad.github.io)
