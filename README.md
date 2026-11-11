@@ -122,7 +122,7 @@ I build software where **health, data and machine learning** meet: accessible Fl
 
 <div align="center">
 
-<img src="ascii-portrait.png" width="560" alt="ASCII portrait"/>
+<img src="ascii-portrait-v2.png" width="640" alt="ASCII portrait"/>
 
 </div>
 
