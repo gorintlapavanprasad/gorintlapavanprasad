@@ -17,8 +17,8 @@ I build software where **health, data and machine learning** meet: accessible Fl
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gorintlapavanprasad.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-gorintla/)
-[![CV](https://img.shields.io/badge/CV-read-0b2a4a?style=for-the-badge)](https://gorintlapavanprasad.github.io/cv.html)
-[![Research](https://img.shields.io/badge/Research-explore-0b2a4a?style=for-the-badge)](https://gorintlapavanprasad.github.io/research.html)
+[![CV](https://img.shields.io/badge/CV-read-0b2a4a?style=for-the-badge)](https://gorintlapavanprasad.github.io/files/Pavan_Gorintla_CV.pdf)
+[![Research](https://img.shields.io/badge/Research-explore-0b2a4a?style=for-the-badge)](https://gorintlapavanprasad.github.io/portfolio/research.html)
 
 </div>
 
