@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero-v2.svg" width="100%" alt="Gorintla Pavan Prasad"/>
+<img src="hero-v3.svg" width="100%" alt="Gorintla Pavan Prasad"/>
 
 <a href="https://gorintlapavanprasad.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=3B82F6&center=true&vCenter=true&width=640&height=40&lines=Building+heart-health+games+for+research;Explainable+ML+you+can+actually+read;Interactive+data+visualization+for+the+lab" alt="typing"/>
