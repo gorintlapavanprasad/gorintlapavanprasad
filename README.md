@@ -10,12 +10,7 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="220" align="center" valign="middle">
-  <a href="https://gorintlapavanprasad.github.io"><img src="avatar.png" width="190" alt="Pavan"/></a>
-</td>
-<td valign="middle">
+<div align="center">
 
 ### Hi, I'm Pavan 👋
 I build software where **health, data and machine learning** meet: accessible Flutter games for cardiovascular research, explainable NLP, and interactive visualizations.
@@ -25,9 +20,7 @@ I build software where **health, data and machine learning** meet: accessible Fl
 [![CV](https://img.shields.io/badge/CV-read-0b2a4a?style=for-the-badge)](https://gorintlapavanprasad.github.io/cv.html)
 [![Research](https://img.shields.io/badge/Research-explore-0b2a4a?style=for-the-badge)](https://gorintlapavanprasad.github.io/research.html)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
