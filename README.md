@@ -40,7 +40,27 @@ I build software where **health, data and machine learning** meet: accessible Fl
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,py,js,react,nodejs,express,firebase,tensorflow,pytorch,docker,git,github,vscode,jupyter&perline=15" alt="skills"/>
+<table align="center">
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=flutter" width="52" alt="Flutter"/><br/><sub><b>Flutter</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=dart" width="52" alt="Dart"/><br/><sub><b>Dart</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" width="52" alt="Python"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="52" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="52" alt="React"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="52" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="52" alt="Express"/><br/><sub><b>Express</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=firebase" width="52" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" width="52" alt="TensorFlow"/><br/><sub><b>TensorFlow</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" width="52" alt="PyTorch"/><br/><sub><b>PyTorch</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="52" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="52" alt="Git"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="52" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=jupyter" width="52" alt="Jupyter"/><br/><sub><b>Jupyter</b></sub></td>
+</tr>
+</table>
 
 </div>
 
