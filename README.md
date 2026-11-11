@@ -70,7 +70,6 @@ I build software where **health, data and machine learning** meet: accessible Fl
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gorintlapavanprasad&show_icons=true&theme=dark&hide_border=true&bg_color=06101c&title_color=3b82f6&icon_color=34d399&text_color=e5e7eb&include_all_commits=true" alt="stats"/>
 <img height="165" src="https://streak-stats.demolab.com?user=gorintlapavanprasad&theme=dark&hide_border=true&background=06101c&ring=34d399&fire=3b82f6&currStreakLabel=3b82f6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=9ca3af&dates=9ca3af" alt="streak"/>
 
 <br/><br/>
