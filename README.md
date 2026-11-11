@@ -3,7 +3,7 @@
 <img src="hero.svg" width="100%" alt="Gorintla Pavan Prasad"/>
 
 <a href="https://gorintlapavanprasad.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=FF4D6D&center=true&vCenter=true&width=640&height=40&lines=Building+heart-health+games+for+research;Explainable+ML+you+can+actually+read;Interactive+data+visualization+for+the+lab" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=Building+heart-health+games+for+research;Explainable+ML+you+can+actually+read;Interactive+data+visualization+for+the+lab" alt="typing"/>
 </a>
 
 </div>
@@ -20,7 +20,8 @@
 ### Hi, I'm Pavan 👋
 I build software where **health, data and machine learning** meet: accessible Flutter games for cardiovascular research, explainable NLP, and interactive visualizations.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-ff4d6d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gorintlapavanprasad.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gorintlapavanprasad.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-gorintla/)
 [![CV](https://img.shields.io/badge/CV-read-14213d?style=for-the-badge)](https://gorintlapavanprasad.github.io/cv.html)
 [![Research](https://img.shields.io/badge/Research-explore-14213d?style=for-the-badge)](https://gorintlapavanprasad.github.io/research.html)
 
@@ -34,9 +35,9 @@ I build software where **health, data and machine learning** meet: accessible Fl
 
 <div align="center">
 
-<a href="https://github.com/gorintlapavanprasad/CardioCare-Quest"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gorintlapavanprasad&repo=CardioCare-Quest&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=ff4d6d&icon_color=ff4d6d" alt="CardioCare Quest"/></a>
-<a href="https://github.com/gorintlapavanprasad/fake-news-detection"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gorintlapavanprasad&repo=fake-news-detection&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=ff4d6d&icon_color=ff4d6d" alt="Fake News Detection"/></a>
-<a href="https://github.com/gorintlapavanprasad/Interactive-Visualization-PHT-Lab-Model"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gorintlapavanprasad&repo=Interactive-Visualization-PHT-Lab-Model&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=ff4d6d&icon_color=ff4d6d" alt="PHT Lab visualization"/></a>
+<a href="https://github.com/gorintlapavanprasad/CardioCare-Quest"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gorintlapavanprasad&repo=CardioCare-Quest&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=38bdf8&icon_color=38bdf8" alt="CardioCare Quest"/></a>
+<a href="https://github.com/gorintlapavanprasad/fake-news-detection"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gorintlapavanprasad&repo=fake-news-detection&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=38bdf8&icon_color=38bdf8" alt="Fake News Detection"/></a>
+<a href="https://github.com/gorintlapavanprasad/Interactive-Visualization-PHT-Lab-Model"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gorintlapavanprasad&repo=Interactive-Visualization-PHT-Lab-Model&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=38bdf8&icon_color=38bdf8" alt="PHT Lab visualization"/></a>
 
 </div>
 
@@ -52,7 +53,7 @@ I build software where **health, data and machine learning** meet: accessible Fl
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,py,js,ts,react,nextjs,django,git,github,vscode,jupyter&perline=12" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,py,js,react,nodejs,express,firebase,tensorflow,pytorch,docker,git,github,vscode,jupyter&perline=15" alt="skills"/>
 
 </div>
 
@@ -62,8 +63,8 @@ I build software where **health, data and machine learning** meet: accessible Fl
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gorintlapavanprasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=ff4d6d&icon_color=ff4d6d&include_all_commits=true" alt="stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=gorintlapavanprasad&theme=tokyonight&hide_border=true&background=0b0f1a&ring=ff4d6d&fire=ff4d6d&currStreakLabel=ff4d6d" alt="streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gorintlapavanprasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=38bdf8&icon_color=38bdf8&include_all_commits=true" alt="stats"/>
+<img height="165" src="https://streak-stats.demolab.com?user=gorintlapavanprasad&theme=tokyonight&hide_border=true&background=0b0f1a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="streak"/>
 
 <br/><br/>
 
@@ -101,5 +102,5 @@ $ whoami
 
 <div align="center">
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:5b1a2b,50:14213d,100:0b0f1a&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0c4a6e,50:14213d,100:0b0f1a&section=footer" width="100%" alt=""/>
 </div>
