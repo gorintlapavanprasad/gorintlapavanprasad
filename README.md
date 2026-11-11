@@ -12,13 +12,18 @@
 
 <div align="center">
 
-<h1 align="center"><font size="7">Hi, I'm Pavan 👋</font></h1>
-I build software where **health, data and machine learning** meet: accessible Flutter games for cardiovascular research, explainable NLP, and interactive visualizations.
+<h1 align="center">Hi, I'm Pavan 👋</h1>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gorintlapavanprasad.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-gorintla/)
-[![CV](https://img.shields.io/badge/CV-read-0b2a4a?style=for-the-badge)](https://gorintlapavanprasad.github.io/files/Pavan_Gorintla_CV.pdf)
-[![Research](https://img.shields.io/badge/Research-explore-0b2a4a?style=for-the-badge)](https://gorintlapavanprasad.github.io/portfolio/research.html)
+<p align="center">
+I build software where <b>health, data and machine learning</b> meet: accessible Flutter games for cardiovascular research, explainable NLP, and interactive visualizations.
+</p>
+
+<p align="center">
+<a href="https://gorintlapavanprasad.github.io"><img src="https://img.shields.io/badge/Portfolio-visit-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/pavan-gorintla/"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://gorintlapavanprasad.github.io/files/Pavan_Gorintla_CV.pdf"><img src="https://img.shields.io/badge/CV-read-047857?style=for-the-badge" alt="CV"/></a>
+<a href="https://gorintlapavanprasad.github.io/portfolio/research.html"><img src="https://img.shields.io/badge/Research-explore-047857?style=for-the-badge" alt="Research"/></a>
+</p>
 
 </div>
 
