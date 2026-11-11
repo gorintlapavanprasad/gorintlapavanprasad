@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1626"/><stop offset="1" stop-color="#08261f"/></linearGradient>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+<style>.h{font:700 18px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}.d{font:400 12.5px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#cbd5e1}.t{font:600 11px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e2e8f0}
+.bar{animation:s 3s ease-in-out infinite alternate}@keyframes s{from{opacity:.45}to{opacity:1}}</style></defs>
+<rect x=".5" y=".5" width="319" height="199" rx="14" fill="url(#g)" stroke="#1e3a5f"/>
+<rect class="bar" x="0" y="0" width="320" height="5" rx="2" fill="url(#b)"/>
+<circle cx="30" cy="40" r="6" fill="#f1e05a"/>
+<text x="46" y="46" class="h">PHT Lab Visualization</text><text x="24" y="82" class="d">Interactive visualization model for lab</text><text x="24" y="102" class="d">research, with a data pipeline, a11y</text><text x="24" y="122" class="d">tests and CI on every push</text><rect x="24" y="156" width="90" height="22" rx="11" fill="#3b82f6" fill-opacity=".14" stroke="#3b82f6" stroke-opacity=".5"/><text x="69" y="171" text-anchor="middle" class="t">JavaScript</text><rect x="122.0" y="156" width="76" height="22" rx="11" fill="#3b82f6" fill-opacity=".14" stroke="#3b82f6" stroke-opacity=".5"/><text x="160" y="171" text-anchor="middle" class="t">Chart.js</text><rect x="205.6" y="156" width="83" height="22" rx="11" fill="#3b82f6" fill-opacity=".14" stroke="#3b82f6" stroke-opacity=".5"/><text x="247" y="171" text-anchor="middle" class="t">Puppeteer</text>
+</svg>

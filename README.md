@@ -35,17 +35,11 @@ I build software where **health, data and machine learning** meet: accessible Fl
 
 <div align="center">
 
-<a href="https://github.com/gorintlapavanprasad/CardioCare-Quest"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gorintlapavanprasad&repo=CardioCare-Quest&theme=dark&hide_border=true&bg_color=06101c&title_color=3b82f6&icon_color=34d399&text_color=e5e7eb" alt="CardioCare Quest"/></a>
-<a href="https://github.com/gorintlapavanprasad/fake-news-detection"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gorintlapavanprasad&repo=fake-news-detection&theme=dark&hide_border=true&bg_color=06101c&title_color=3b82f6&icon_color=34d399&text_color=e5e7eb" alt="Fake News Detection"/></a>
-<a href="https://github.com/gorintlapavanprasad/Interactive-Visualization-PHT-Lab-Model"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gorintlapavanprasad&repo=Interactive-Visualization-PHT-Lab-Model&theme=dark&hide_border=true&bg_color=06101c&title_color=3b82f6&icon_color=34d399&text_color=e5e7eb" alt="PHT Lab visualization"/></a>
+<a href="https://github.com/gorintlapavanprasad/CardioCare-Quest"><img src="card-ccq.svg" width="31%" alt="CardioCare Quest"/></a>
+<a href="https://github.com/gorintlapavanprasad/fake-news-detection"><img src="card-fake.svg" width="31%" alt="Fake News Detection"/></a>
+<a href="https://github.com/gorintlapavanprasad/Interactive-Visualization-PHT-Lab-Model"><img src="card-pht.svg" width="31%" alt="PHT Lab Visualization"/></a>
 
 </div>
-
-| | |
-|---|---|
-| ❤️ **CardioCare Quest** | Flutter app hosting accessible mini-games that teach heart-healthy habits, with data collection for longitudinal studies |
-| 📰 **Fake News Detection** | In-browser detector that highlights the words behind each decision (TF-IDF + logistic regression, DistilBERT comparison) |
-| 📊 **PHT Lab Visualization** | Interactive visualization model for lab research |
 
 <br/>
 
